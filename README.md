@@ -10,4 +10,4 @@ Veri Ön İşleme: Verilerin toplanması kadar önemli olan bir diğer adım da 
 
 Veri Analizi: Veri analizi, verilerin modelleme teknikleri kullanılarak incelenmesini sağlar. Veri analizi, verilerin yapısal ve istatistiksel olarak analiz edilmesini sağlar.
 
-Veri Görselleştirme: Veri görselleştirme, verilerin anlaşılmasını kolaylaştırır. Grafikler, tablolar ve çizelgeler, verileri anlaşılır hale getirmek için kullanılı
+Veri Görselleştirme: Veri görselleştirme, verilerin anlaşılmasını kolaylaştırır. Grafikler, tablolar ve çizelgeler, verileri anlaşılır hale getirmek için kullanılır.
